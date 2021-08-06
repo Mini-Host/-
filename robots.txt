@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /admin
-
-Sitemap: https://flame-host.ru/sitemap.xml
-host: https://flame-host.ru
